@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-facebook">
+      <rect width="24" height="24"/>
+    </clipPath>
+  </defs>
+  <g id="facebook" clip-path="url(#clip-facebook)">
+    <g id="Group_87" data-name="Group 87" transform="translate(0.258 0.258)">
+      <path id="Path_1" data-name="Path 1" d="M11.741,23.483A11.742,11.742,0,1,1,23.483,11.742,11.754,11.754,0,0,1,11.741,23.483Zm0-22.222a10.48,10.48,0,1,0,10.479,10.48A10.491,10.491,0,0,0,11.741,1.261Z" fill="#fff"/>
+      <path id="Path_2" data-name="Path 2" d="M18.461,16.2v6.911a.18.18,0,0,0,.18.18h2.566a.18.18,0,0,0,.18-.18V16.091h1.859a.18.18,0,0,0,.18-.164L23.6,13.81a.18.18,0,0,0-.179-.2H21.386v-1.5a.636.636,0,0,1,.636-.637h1.433a.18.18,0,0,0,.18-.18V9.18a.18.18,0,0,0-.18-.18h-2.42a2.574,2.574,0,0,0-2.573,2.575v2.04H17.18a.18.18,0,0,0-.18.18v2.116a.179.179,0,0,0,.18.18h1.283Z" transform="translate(-8.321 -4.405)" fill="#fff" fill-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
